@@ -53,7 +53,7 @@ export default function Footer() {
     <footer className="relative bg-gradient-to-br from-dark-900 via-dark-800 to-primary-900 pb-20">
       {/* Background Pattern */}
       <div className="absolute inset-0 opacity-5">
-        <div className="absolute inset-0 bg-[url("data:image/svg+xml,%3Csvg width='20' height='20' xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3Cpattern id='grid' width='20' height='20' patternUnits='userSpaceOnUse'%3E%3Cpath d='M 20 0 L 0 0 0 20' fill='none' stroke='%2300ffff' stroke-width='0.5' opacity='0.3'/%3E%3C/pattern%3E%3C/defs%3E%3Crect width='100%25' height='100%25' fill='url(%23grid)' /%3E%3C/svg%3E")]"></div>
+        <div className="absolute inset-0 bg-[url(data:image/svg+xml,%3Csvg%20width='20'%20height='20'%20xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3Cpattern%20id='grid'%20width='20'%20height='20'%20patternUnits='userSpaceOnUse'%3E%3Cpath%20d='M%2020%200%20L%200%200%200%2020'%20fill='none'%20stroke='%2300ffff'%20stroke-width='0.5'%20opacity='0.3'/%3E%3C/pattern%3E%3C/defs%3E%3Crect%20width='100%25'%20height='100%25'%20fill='url(%23grid)'%20/%3E%3C/svg%3E)]"></div>
       </div>
 
       <div className="container mx-auto px-4 relative z-10">
